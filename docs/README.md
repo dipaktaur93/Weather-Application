@@ -22,14 +22,3 @@
 * [React.JS](https://reactjs.org/) - React.JS (Javascript Framework)
 * [OpenWeatherMap API](https://openweathermap.org/api) - OpenWeatherMap API
 
-## Link
-
-http://weathercove.s3-website.us-east-2.amazonaws.com/ - Hosted on AWS S3
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for more details.
-
-## Author
-
-Sumit Agrawal - [Official Website](https://sumitagrawal.com)
